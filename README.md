@@ -54,7 +54,7 @@ Micro-benchmark performance of Snarkify's GPU implementations.  All times in mil
 Please note, these times are very fast, especially compared to other publicly available GPU
 libraries.
 
-| operation | size 2^22 | size 2^25 |
+| operation (BLS12381) | size 2^22 | size 2^25 |
 |--|--|--|
 |msm|28.40||
 |ntt|1.13|13.35|
